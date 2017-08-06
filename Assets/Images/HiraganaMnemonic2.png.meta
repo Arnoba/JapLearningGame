@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: bd3133f1a2b5ea84dbf2167c7cf56de8
+timeCreated: 1502014307
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HiraganaMnemonic2_0
+    21300002: HiraganaMnemonic2_1
+    21300004: HiraganaMnemonic2_2
+    21300006: HiraganaMnemonic2_3
+    21300008: HiraganaMnemonic2_4
+    21300010: HiraganaMnemonic2_5
+    21300012: HiraganaMnemonic2_6
+    21300014: HiraganaMnemonic2_7
+    21300016: HiraganaMnemonic2_8
+    21300018: HiraganaMnemonic2_9
+    21300020: HiraganaMnemonic2_10
+    21300022: HiraganaMnemonic2_11
+    21300024: HiraganaMnemonic2_12
+    21300026: HiraganaMnemonic2_13
+    21300028: HiraganaMnemonic2_14
+    21300030: HiraganaMnemonic2_15
+    21300032: HiraganaMnemonic2_16
+    21300034: HiraganaMnemonic2_17
+    21300036: HiraganaMnemonic2_18
+    21300038: HiraganaMnemonic2_19
+    21300040: HiraganaMnemonic2_20
+    21300042: HiraganaMnemonic2_21
+    21300044: HiraganaMnemonic2_22
+    21300046: HiraganaMnemonic2_23
+    21300048: HiraganaMnemonic2_24
+    21300050: HiraganaMnemonic2_25
+    21300052: HiraganaMnemonic2_26
+    21300054: HiraganaMnemonic2_27
+    21300056: HiraganaMnemonic2_28
+    21300058: HiraganaMnemonic2_29
+    21300060: HiraganaMnemonic2_30
+    21300062: HiraganaMnemonic2_31
+    21300064: HiraganaMnemonic2_32
+    21300066: HiraganaMnemonic2_33
+    21300068: HiraganaMnemonic2_34
+    21300070: HiraganaMnemonic2_35
+    21300072: HiraganaMnemonic2_36
+    21300074: HiraganaMnemonic2_37
+    21300076: HiraganaMnemonic2_38
+    21300078: HiraganaMnemonic2_39
+    21300080: HiraganaMnemonic2_40
+    21300082: HiraganaMnemonic2_41
+    21300084: HiraganaMnemonic2_42
+    21300086: HiraganaMnemonic2_43
+    21300088: HiraganaMnemonic2_44
+    21300090: HiraganaMnemonic2_45
+    21300092: HiraganaMnemonic2_46
+    21300094: HiraganaMnemonic2_47
+    21300096: HiraganaMnemonic2_48
+    21300098: HiraganaMnemonic2_49
+    21300100: HiraganaMnemonic2_50
+    21300102: HiraganaMnemonic2_51
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 963
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 959
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 891
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 888
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 824
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 806
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 736
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 733
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 660
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 660
+        width: 102
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 586
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 587
+        width: 104
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 514
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 515
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 440
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 442
+        width: 102
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 370
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 369
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 297
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 294
+        width: 101
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 224
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 221
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 149
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 76
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 961
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_27
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 961
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_28
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 888
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 888
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_30
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 807
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 811
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_32
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 733
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_33
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 733
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 660
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_35
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 660
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_36
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 595
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_37
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 589
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_38
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 519
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 515
+        width: 95
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_40
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 447
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_41
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 439
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_42
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 369
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 369
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 298
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_45
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 302
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 230
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_47
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 221
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_48
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 153
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_49
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 152
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_50
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 78
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiraganaMnemonic2_51
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 80
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
